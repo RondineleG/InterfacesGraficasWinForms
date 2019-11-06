@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NossaPrimeiraForm", "NossaPrimeiraForm\NossaPrimeiraForm.csproj", "{F1D01322-3540-43BF-9849-AE921919C30D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelsButtons", "APP2 - Labels e Buttons\LabelsButtons.csproj", "{A575BFD7-5CB1-46FF-9B52-DE0A08AA19F7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelsButtons", "LabelsButtons\LabelsButtons.csproj", "{A575BFD7-5CB1-46FF-9B52-DE0A08AA19F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTextBox", "TextBox\AppTextBox.csproj", "{49A7FE36-EAA0-4DCF-86DA-603C163ED9B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A575BFD7-5CB1-46FF-9B52-DE0A08AA19F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A575BFD7-5CB1-46FF-9B52-DE0A08AA19F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A575BFD7-5CB1-46FF-9B52-DE0A08AA19F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49A7FE36-EAA0-4DCF-86DA-603C163ED9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A7FE36-EAA0-4DCF-86DA-603C163ED9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A7FE36-EAA0-4DCF-86DA-603C163ED9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A7FE36-EAA0-4DCF-86DA-603C163ED9B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

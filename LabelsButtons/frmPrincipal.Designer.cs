@@ -1,4 +1,4 @@
-﻿namespace APP2___Labels_e_Buttons
+﻿namespace LabelsButtons
 {
     partial class frmPrincipal
     {
