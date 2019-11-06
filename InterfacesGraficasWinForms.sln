@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.168
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NossaPrimeiraForm", "NossaPrimeiraForm\NossaPrimeiraForm.csproj", "{F1D01322-3540-43BF-9849-AE921919C30D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelsButtons", "APP2 - Labels e Buttons\LabelsButtons.csproj", "{A575BFD7-5CB1-46FF-9B52-DE0A08AA19F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F1D01322-3540-43BF-9849-AE921919C30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1D01322-3540-43BF-9849-AE921919C30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1D01322-3540-43BF-9849-AE921919C30D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A575BFD7-5CB1-46FF-9B52-DE0A08AA19F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A575BFD7-5CB1-46FF-9B52-DE0A08AA19F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A575BFD7-5CB1-46FF-9B52-DE0A08AA19F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A575BFD7-5CB1-46FF-9B52-DE0A08AA19F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
