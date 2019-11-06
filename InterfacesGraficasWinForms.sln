@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelsButtons", "LabelsButt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTextBox", "TextBox\AppTextBox.csproj", "{49A7FE36-EAA0-4DCF-86DA-603C163ED9B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppComboBox", "AppComboBox\AppComboBox.csproj", "{7169399B-0E66-49DE-BD53-C9072CD9A4A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppJanelas", "Janelas\AppJanelas.csproj", "{F75CF874-AF69-4395-93B0-9087C94FCF51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{49A7FE36-EAA0-4DCF-86DA-603C163ED9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49A7FE36-EAA0-4DCF-86DA-603C163ED9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49A7FE36-EAA0-4DCF-86DA-603C163ED9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7169399B-0E66-49DE-BD53-C9072CD9A4A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7169399B-0E66-49DE-BD53-C9072CD9A4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7169399B-0E66-49DE-BD53-C9072CD9A4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7169399B-0E66-49DE-BD53-C9072CD9A4A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F75CF874-AF69-4395-93B0-9087C94FCF51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75CF874-AF69-4395-93B0-9087C94FCF51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75CF874-AF69-4395-93B0-9087C94FCF51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75CF874-AF69-4395-93B0-9087C94FCF51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

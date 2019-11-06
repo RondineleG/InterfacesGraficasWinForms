@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace NossaPrimeiraForm
+namespace AppJanelas
 {
     static class Program
     {
@@ -13,7 +13,7 @@ namespace NossaPrimeiraForm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new TelaInicial());
+            Application.Run(new Janela1());
         }
     }
 }
